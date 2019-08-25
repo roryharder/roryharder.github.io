@@ -5,15 +5,19 @@
 layout: home
 ---
 
-<center><img src="gmp9241edit.png" height="80" width="50"></center>
+<center><img src="GMP9241edit.png" height="500" width="500"></center>
+
+>
+>
+>
 
 My name is Rory Harder. I am a philosophy PhD student at the University of Toronto. My main research interests are in philosophy of language and mind, and epistemology. My dissertation is on the meaning and use of demonstratives.
 
-Here is my [CV](https://RH_FULLCV.pdf/).
+Here is my [CV](https://utoronto.academia.edu/RoryHarder/CurriculumVitae).
 
 You can e-mail me at rory.harder [at] mail.utoronto.ca.
 
-# Research
+# Papers
 
 For now, see [my academia page](https://utoronto.academia.edu/RoryHarder).
 
