@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<center><img src="gmp9241edit.png" height="42" width="42"></center>
+<center><img src="gmp9241edit.png" height="80" width="50"></center>
 
 My name is Rory Harder. I am a philosophy PhD student at the University of Toronto. My main research interests are in philosophy of language and mind, and epistemology. My dissertation is on the meaning and use of demonstratives.
 
