@@ -7,7 +7,7 @@ layout: home
 
 <table style="max-width:50%" border="0">
   <tr>
-    <td><img src="GMP9241edit.png" style="max-width:40%;"></td>
+    <td><img src="GMP9241edit.png" style="max-width:90%;"></td>
     <td>My name is Rory Harder. Currently I am completing my PhD in philosophy at the University of Toronto. My main research interests are in philosophy of language and mind, and epistemology.</td> 
   </tr>
 </table>
