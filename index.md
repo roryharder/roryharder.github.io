@@ -5,17 +5,14 @@
 layout: home
 ---
 
-My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in philosophy of language and mind, and epistemology, with a focus on the meaning and use of demonstratives.
-
->
->
->
-
 <center><img src="GMP9241edit.png" style="max-width:60%;"></center>
 
 >
 >
 >
+>
+
+My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in philosophy of language and mind, and epistemology, with a focus on the meaning and use of demonstratives.
 
 Here is my <a href="RH_FULLCV.pdf">CV</a>.
 
