@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<center><img src="mountpicture.png" style="max-width:30%;"></center>
+<center><img src="mountpicture.png" style="max-width:50%;"></center>
 
 >
 >
