@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<center><img src="GMP9241edit.png" style="max-width:60%;"></center>
+<center><img src="mountpicture.png" style="max-width:60%;"></center>
 
 >
 >
