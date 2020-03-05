@@ -24,9 +24,9 @@ See my [academia page](https://utoronto.academia.edu/RoryHarder).
 
 # Teaching
 
-As a course instructor, I have taught a third-year seminar on the philosophy of mind at the University of Toronto and a first-year introduction to formal reasoning and decision-making at Rutgers University.
+As a course instructor, I have taught a third-year seminar on the <a href="rh-mind-syllabus.pdf">philosophy of mind</a> at the University of Toronto and a first-year <a href="syllabus.pdf">introduction to formal reasoning and decision-making</a> at Rutgers University.
 
-As a teaching assistant at the University of Toronto, I have run tutorials and graded for second-year courses on metaphysics and epistemology, ancient philosophy, early modern philosophy, and probability theory; and a first-year introduction to philosophy course.
+As a teaching assistant at the University of Toronto, I have run tutorials for second-year courses on metaphysics and epistemology, ancient philosophy, early modern philosophy, and probability theory; and a first-year introduction to philosophy course.
 
 
 
