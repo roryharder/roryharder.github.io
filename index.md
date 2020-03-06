@@ -25,7 +25,7 @@ See my [academia page](https://utoronto.academia.edu/RoryHarder).
 
 # Teaching
 
-As a course instructor, I have taught a third-year seminar on <a href="rh-mind-syllabus.pdf">perception</a> at the University of Toronto and a first-year <a href="syllabus.pdf">introduction to formal reasoning and decision-making</a> at Rutgers University.
+As a course instructor, I have taught a third-year seminar on <a href="rh-mind-syllabus.pdf">perception</a> at the University of Toronto and a first-year <a href="syllabus.pdf">introduction to formal reasoning and decision making</a> at Rutgers University.
 
 As a teaching assistant at the University of Toronto, I have run tutorials for second-year courses on metaphysics and epistemology, ancient philosophy, early modern philosophy, and probability theory; and a first-year introduction to philosophy course.
 
