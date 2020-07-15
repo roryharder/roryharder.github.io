@@ -12,6 +12,8 @@ layout: home
 >
 >
 >
+>
+>
 
 My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in the philosophy of language and mind, with a focus on the meaning and use of demonstratives.
 
@@ -21,13 +23,15 @@ You can e-mail me at rory.harder [at] mail.utoronto.ca.
 
 # Papers
 
-See my [academia page](https://utoronto.academia.edu/RoryHarder).
+Jointly Attending (in progress)
+
+Perspective and Salience in Anaphoric Reference (in progress)
 
 # Teaching
 
-As a course instructor, I have taught a third-year seminar on <a href="rh-mind-syllabus.pdf">perception</a> at the University of Toronto and a first-year <a href="syllabus.pdf">introduction to formal reasoning and decision making</a> at Rutgers University.
+I have taught third-year seminars on <a href="rh-mind-syllabus.pdf">perception</a> and <a href="fpsyll.pdf">Frege's puzzle</a> at the University of Toronto and first-year <a href="syllabus.pdf">introduction to formal reasoning and decision making</a> at Rutgers University.
 
-As a teaching assistant at the University of Toronto, I have run tutorials for second-year courses on metaphysics and epistemology, ancient philosophy, early modern philosophy, and probability theory; and a first-year introduction to philosophy course.
+<!-- As a teaching assistant at the University of Toronto, I have run tutorials for second-year courses on metaphysics and epistemology, ancient philosophy, early modern philosophy, and probability theory; and a first-year introduction to philosophy course. -->
 
 
 
