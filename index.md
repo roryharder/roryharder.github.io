@@ -23,9 +23,9 @@ You can e-mail me at rory.harder [at] mail.utoronto.ca.
 
 # Papers
 
-Jointly Attending (in progress)
+Jointly Attending (in preparation)
 
-Perspective and Salience in Anaphoric Reference (in progress)
+Perspective and Salience in Anaphoric Reference (in preparation)
 
 # Teaching
 
