@@ -23,9 +23,9 @@ You can e-mail me at rory.harder [at] mail.utoronto.ca.
 
 # Papers
 
-Jointly Attending (in preparation)
+Joint Attention: The Window Into Other Minds? (in preparation)
 
-Perspective and Salience in Anaphoric Reference (in preparation)
+The Grammar of Reference: Perspective and Salience in Anaphoric Reference (in preparation)
 
 # Teaching
 
