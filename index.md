@@ -27,7 +27,7 @@ Feel free to e-mail me for drafts. Any comments are appreciated!
 
 * Joint Attention: The Window Into Other Minds? (in preparation)
 
-* The Grammar of Reference: Perspective and Salience in Anaphoric Reference (in preparation)
+* The Grammar of Reference: Perspective and Salience in Anaphoric Reference (in review)
 
 # Teaching
 
