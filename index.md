@@ -5,9 +5,9 @@
 layout: home
 ---
 
-<center><img src="mountpicture.png" style="max-width:50%;"></center>
+<center><img src="mountpicture.png" style="max-width:50%;" vspace="15"></center>
 
-\__
+
 
 My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in the philosophy of language and mind, with a focus on the meaning and use of demonstratives.
 
