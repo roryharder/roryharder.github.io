@@ -5,18 +5,7 @@
 layout: home
 ---
 
-
-<div class="row">
-  <div class="column">
-    <img src="mountpicture.png" alt="Snow" style="max-width:30%">
-  </div>
-  <div class="column">
-    <img src="IMG_3309.jpeg" alt="Sun" style="max-width:30%">
-  </div>
-
-</div>
-
-<!-- <center><img src="mountpicture.png" style="max-width:50%;" vspace="75"></center> -->
+<center><img src="mountpicture.png" style="max-width:50%;" vspace="75"></center>
 
 
 
