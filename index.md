@@ -8,10 +8,10 @@ layout: home
 
 <div class="row">
   <div class="column">
-    <img src="mountpicture.png" alt="Snow" style="width:50%">
+    <img src="mountpicture.png" alt="Snow" style="max-width:30%">
   </div>
   <div class="column">
-    <img src="IMG_3309.jpeg" alt="Sun" style="width:50%">
+    <img src="IMG_3309.jpeg" alt="Sun" style="max-width:30%">
   </div>
 
 </div>
