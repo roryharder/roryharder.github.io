@@ -19,7 +19,7 @@ You can e-mail me at rory.harder [at] mail.utoronto.ca.
 
 Feel free to e-mail me for drafts. Any comments are appreciated!
 
-* Jointly Attending (in preparation)
+* Joint Attention: The Window Into Other Minds? (in preparation)
 
 * The Grammar of Reference: Perspective and Salience in Anaphor Resolution (under review)
 
