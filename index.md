@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<center><img src="mountpicture.png" style="max-width:50%;" vspace="50"></center>
+<center><img src="mountpicture.png" style="max-width:50%;" vspace="50" onclick="this.src='IMG_3309.jpeg'"></center>
 
 
 
