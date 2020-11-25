@@ -21,7 +21,7 @@ Feel free to e-mail me for drafts. Any comments are appreciated!
 
 * [under review]
 
-* The Grammar of Reference: Perspective and Salience in Anaphor Resolution (in preparation)
+* The Grammar of Reference: Salience and Deixis in Anaphora Resolution (in preparation)
 
 # Teaching
 
