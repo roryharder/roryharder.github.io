@@ -11,9 +11,9 @@ layout: home
 
 My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in the philosophy of language and mind, with a focus on the meaning and use of demonstratives.
 
-Here is my <a href="RH_FULLCV.pdf">CV</a>.
+Here is my <a href="rh-cv.pdf">CV</a>.
 
-You can e-mail me at rory.harder [at] mail.utoronto.ca.
+My e-mail may be found on my CV.
 
 # Papers
 
@@ -21,7 +21,9 @@ Feel free to e-mail me for drafts. Any comments are appreciated!
 
 * [under review]
 
-* The Grammar of Reference: Salience and Deixis in Anaphora Resolution (in preparation)
+* Salience and Deixis in Anaphora Resolution (in preparation)
+
+* Understanding Demonstratives Together (in preparation)
 
 # Teaching
 
