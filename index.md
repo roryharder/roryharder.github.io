@@ -23,7 +23,7 @@ Here are some papers I am working on. Feel free to e-mail me for drafts. Any com
 
 * Salience and Deixis in Anaphora Resolution (in preparation)
 
-% Clearing up Clouds: Underspecification in Demonstrative Communication (in preparation)
+* Clearing up Clouds: Underspecification in Demonstrative Communication (in preparation)
 
 * Understanding Demonstratives Together (in preparation)
 
