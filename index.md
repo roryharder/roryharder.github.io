@@ -15,11 +15,9 @@ My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at
 
 # Research
 
-I am giving a talk on joint attention at the Pacific APA in early April 2021, with comments from John Campbell and Johannes Roessler.
+I am giving a talk on joint attention at the Pacific APA in early April 2021.
 
 Here are some papers I am working on. Feel free to e-mail me for drafts. Any comments are appreciated!
-
-* [under review]
 
 * Salience and Deixis in the Anaphora Resolution of Demonstratives and Definite Descriptions (in preparation)
 
