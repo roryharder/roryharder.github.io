@@ -13,13 +13,17 @@ My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at
 
 <a href="rh-cv.pdf">Here</a> is my CV, where my e-mail may be found.
 
-# Papers
+# Research
 
-Feel free to e-mail me for drafts. Any comments are appreciated!
+I am giving a talk on joint attention at the Pacific APA in early April 2021, with comments from John Campbell and Johannes Roessler.
+
+Here are some papers I am working on. Feel free to e-mail me for drafts. Any comments are appreciated!
 
 * [under review]
 
 * Salience and Deixis in Anaphora Resolution (in preparation)
+
+% Clearing up Clouds: Underspecification in Demonstrative Communication (in preparation)
 
 * Understanding Demonstratives Together (in preparation)
 
