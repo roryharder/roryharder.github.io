@@ -21,7 +21,7 @@ Here are some papers I am working on. Feel free to e-mail me for drafts. Any com
 
 * [under review]
 
-* Salience and Deixis in Anaphora Resolution (in preparation)
+* Salience and Deixis in the Anaphora Resolution of Demonstratives and Definite Descriptions (in preparation)
 
 * Clearing up Clouds: Underspecification in Demonstrative Communication (in preparation)
 
