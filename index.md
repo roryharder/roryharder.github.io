@@ -19,11 +19,11 @@ I am giving a talk on joint attention at the Pacific APA in early April 2021.
 
 Here are some papers I am working on. Feel free to e-mail me for drafts! Any comments are appreciated.
 
-* Salience and Deixis in the Anaphora Resolution of Demonstratives and Definite Descriptions (in preparation)
+* Salience and Deixis in the Anaphora Resolution of Demonstratives and Definite Descriptions
 
-* Clearing up Clouds: Underspecification in Demonstrative Communication (in preparation)
+* Clearing up Clouds: Underspecification in Demonstrative Communication
 
-* Understanding Demonstratives Together (in preparation)
+* Understanding Demonstratives Together
 
 # Teaching
 
