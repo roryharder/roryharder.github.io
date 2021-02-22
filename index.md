@@ -17,7 +17,7 @@ My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at
 
 I am giving a talk on joint attention at the Pacific APA in early April 2021.
 
-I have several papers under review, and I preparing one on what's involved in demonstrative understanding.
+I have several papers under review, and one in preparation on what's involved in demonstrative understanding.
 
 # Teaching
 
