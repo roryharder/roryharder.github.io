@@ -9,7 +9,7 @@ layout: home
 
 
 
-My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in the philosophy of language and mind, with a focus on the meaning and use of demonstratives.
+My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in the philosophy of language and mind, with a focus on communication and joint engagement.
 
 <a href="rh-cv.pdf">Here</a> is my CV, where my e-mail may be found.
 
@@ -17,7 +17,7 @@ My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at
 
 I am giving a talk on joint attention at the Pacific APA in early April 2021.
 
-I have several papers under review, and one in preparation on what's involved in demonstrative understanding.
+I have several papers under review, and some in preparation on the topics of demonstrative understanding and theory of mind.
 
 # Teaching
 
