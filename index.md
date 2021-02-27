@@ -7,8 +7,6 @@ layout: home
 
 <center><img src="mountpicture.png" style="max-width:50%;" vspace="50" onclick="this.src='IMG_3309.jpeg'"></center>
 
-
-
 My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in the philosophies of language and mind, with a focus on communication and joint engagement.
 
 <a href="rh-cv.pdf">Here</a> is my CV, where my e-mail may be found.
