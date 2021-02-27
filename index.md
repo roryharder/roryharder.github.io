@@ -9,7 +9,7 @@ layout: home
 
 
 
-My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are at the intersection of philosophy of language, mind, and epistemology, where I focus on communication and joint engagement.
+My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are in the philosophies of language and mind, with a focus on communication and joint engagement.
 
 <a href="rh-cv.pdf">Here</a> is my CV, where my e-mail may be found.
 
