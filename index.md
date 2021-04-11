@@ -13,8 +13,6 @@ My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at
 
 # Research
 
-I am giving a talk on joint attention at the Pacific APA in early April 2021.
-
 I have several papers under review, and some in preparation on the topics of demonstratives and theory of mind.
 
 # Teaching
