@@ -13,7 +13,7 @@ My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at
 
 # Research
 
-I have several papers under review, and some in preparation on the topics of demonstratives and theory of mind.
+I have several papers under review, and some in preparation, covering the topics of demonstratives and joint attention.
 
 # Teaching
 
