@@ -9,11 +9,13 @@ layout: home
 
 My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto. My main research interests are at the intersection of language, mind, and epistemology, where I focus on communication and joint engagement.
 
-<a href="rh-cv.pdf">Here</a> is my CV, where my e-mail may be found.
+<a href="rh-cv.pdf">Here</a> is my CV.
+
+You may e-mail me at [firstname][lastname]@gmail.com.
 
 # Research
 
-I have several papers under review, and some in preparation, covering the topics of demonstratives and joint attention.
+I have several papers under review and in preparation covering the topics of demonstratives and joint attention.
 
 # Teaching
 
