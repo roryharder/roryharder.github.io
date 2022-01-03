@@ -11,11 +11,13 @@ My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
-You may e-mail me at [firstname][lastname]@gmail.com.
+You can e-mail me at [firstname][lastname]@gmail.com.
 
 # Research
 
-I have several papers under review and in preparation covering the topics of demonstratives and joint attention.
+* Joint Attention and Communication, *Accepted at Inquiry*
+* A paper on the formal semantics of demonstratives, *Revise and Resubmit*
+* Clearing up Clouds: Underspecification in Demonstrative Communication, *In Preparation*
 
 # Teaching
 
