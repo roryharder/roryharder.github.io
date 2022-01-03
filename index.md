@@ -13,7 +13,7 @@ My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at
 
 You can e-mail me at [firstname][lastname]@gmail.com.
 
-# Research
+# Papers
 
 * Joint Attention and Communication, *Accepted at Inquiry*
 * [A paper on the formal semantics of demonstratives], *Revise and Resubmit*
