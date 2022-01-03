@@ -16,7 +16,7 @@ You can e-mail me at [firstname][lastname]@gmail.com.
 # Research
 
 * Joint Attention and Communication, *Accepted at Inquiry*
-* A paper on the formal semantics of demonstratives, *Revise and Resubmit*
+* [A paper on the formal semantics of demonstratives], *Revise and Resubmit*
 * Clearing up Clouds: Underspecification in Demonstrative Communication, *In Preparation*
 
 # Teaching
