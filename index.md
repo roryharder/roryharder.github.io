@@ -14,7 +14,7 @@ My main research interests are in the philosophy of language and mind. I am conc
 
 # Papers
 
-* Joint Attention and Communication, *Accepted at Inquiry*
+* <a href="https://philpapers.org/rec/HARJAA-6">Joint Attention and Communication</a>, *Accepted at Inquiry*
 * [A paper on the formal semantics of demonstratives], *Revise and Resubmit*
 * Clearing up Clouds: Underspecification in Demonstrative Communication, *In Preparation*
 
