@@ -7,7 +7,7 @@ layout: home
 
 <center><img src="mountpicture.png" style="max-width:50%;" vspace="50" onclick="this.src='IMG_3309.jpeg'"></center>
 
-My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto, with a defense expected in March 2022. My main research interests are in the philosophy of language and mind. I am concerned with linguistic communication, and more generally the various ways in which we interact.
+My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto, with a defense expected in March 2022. My main research interests are in the philosophy of language and mind. I am concerned with linguistic communication, and more generally the ways in which we interact.
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
@@ -17,6 +17,7 @@ You can e-mail me at [firstname][lastname]@gmail.com.
 
 * <a href="https://philpapers.org/rec/HARJAA-6">Joint Attention and Communication</a>, *Accepted at Inquiry*
 * [A paper on the formal semantics of demonstratives], *Revise and Resubmit*
+* [A paper on demonstratives and joint attention], *Under Review*
 * Clearing up Clouds: Underspecification in Demonstrative Communication, *In Preparation*
 
 # Teaching
