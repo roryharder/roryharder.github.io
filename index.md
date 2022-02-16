@@ -7,9 +7,9 @@ layout: home
 
 <center><img src="mountpicture.png" style="max-width:50%;" vspace="50" onclick="this.src='IMG_3309.jpeg'"></center>
 
-My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto, with a defense scheduled in March, 2022. My main research interests are in the philosophy of language and mind.
+My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto, with a defense scheduled in March, 2022. My research is in the philosophy of language and mind.
 
-I am interested in the various ways we interact: What is the essential nature of our joint activities, those such as walking together, conversing, and sharing attention? Which of our mental capacities do they draw upon, and perhaps even help develop? To what extent do they play a role in our lives as rational agents? I am especially concerned with linguistic communication, and in particular the meaning and use of demonstratives: words such as "this" and "that."
+I am interested in the various ways we interact: What is the essential nature of our joint activities, those such as walking together, conversing, and sharing attention? Which of our mental capacities do they draw upon, and perhaps even help develop? What role does our engagement with one another play in our lives as rational agents? I am especially concerned with linguistic communication, and in particular the meaning and use of demonstratives: words such as "this" and "that."
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
@@ -17,14 +17,14 @@ You can e-mail me at [firstname][lastname]@gmail.com.
 
 # Papers
 
-* <a href="https://philpapers.org/rec/HARJAA-6">Joint Attention and Communication</a>, *Accepted at Inquiry*
-* [A paper on the formal semantics of demonstratives], *Revise and Resubmit*
+* <a href="https://philpapers.org/rec/HARJAA-6">Joint Attention and Communication</a>, *Accepted at Inquiry: An Interdisciplinary Journal of Philosophy*
+* [A paper on the formal semantics of demonstratives and definite descriptions], *Revise and Resubmit*
 * [A paper on demonstratives and joint attention], *Under Review*
 * Clearing up Clouds: Underspecification in Demonstrative Communication, *In Preparation*
 
 # Teaching
 
-I have taught third-year seminars on <a href="rh-mind-syllabus.pdf">perception</a> and <a href="fpsyll.pdf">Frege's puzzle</a> at the University of Toronto and first-year <a href="syllabus.pdf">introduction to formal reasoning and decision making</a> at Rutgers University.
+I have taught third-year seminars on <a href="rh-mind-syllabus.pdf">perception</a> and <a href="fpsyll.pdf">Frege's puzzle</a> at the University of Toronto and a first-year <a href="syllabus.pdf">introduction to formal reasoning and decision making</a> at Rutgers University.
 
 <!-- As a teaching assistant at the University of Toronto, I have run tutorials for second-year courses on metaphysics and epistemology, ancient philosophy, early modern philosophy, and probability theory; and a first-year introduction to philosophy course. -->
 
