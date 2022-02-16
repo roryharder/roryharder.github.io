@@ -9,7 +9,7 @@ layout: home
 
 My name is <b>Rory Harder</b>. I am currently completing my PhD in philosophy at the University of Toronto, with a defense scheduled in March, 2022. My research is in the philosophy of language and mind.
 
-I am interested in the various ways we interact: What is the essential nature of our joint activities, those such as walking together, conversing, and sharing attention? Which of our mental capacities do they draw upon, and perhaps even help develop? What role does our engagement with one another play in our lives as rational agents? I am especially concerned with linguistic communication, and in particular the meaning and use of demonstratives: words such as ``this'' and ``that.''
+I am interested in the various ways we interact: What is the essential nature of our joint activities, those such as walking together, conversing, and sharing attention? Which of our mental capacities do they draw upon, and perhaps even help develop? What role does our engagement with one another play in our lives as rational agents? I am especially concerned with linguistic communication, and in particular the meaning and use of demonstratives: words such as "this" and "that."
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
