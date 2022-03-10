@@ -20,7 +20,7 @@ You can e-mail me at [firstname][lastname]@gmail.com.
 * <a href="https://philpapers.org/rec/HARJAA-6">Joint Attention and Communication</a>, *Accepted at Inquiry: An Interdisciplinary Journal of Philosophy*
 * [A paper on the formal semantics of demonstratives and definite descriptions], *Revise and Resubmit*
 * [A paper on demonstratives and joint attention], *Under Review*
-* Clearing up Clouds: Underspecification in Demonstrative Communication, *In Preparation*
+* [A paper on the pragmatics of demonstratives], *Under Review*
 
 # Teaching
 
