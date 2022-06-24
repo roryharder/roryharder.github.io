@@ -19,7 +19,7 @@ You can e-mail me at [firstname][lastname]@gmail.com.
 
 Here are my papers, in various stages of progress.
 
-* <a href="https://philpapers.org/rec/HARJAA-6">Joint Attention and Communication</a>, *Accepted at Inquiry: An Interdisciplinary Journal of Philosophy*
+* <a href="https://philpapers.org/rec/HARJAA-6">Joint Attention and Communication</a>, *Inquiry: An Interdisciplinary Journal of Philosophy*
 * [A paper on the formal semantics of demonstratives and definite descriptions], *Revise and Resubmit*
 * [A paper on demonstratives and joint attention], *Under Review*
 * [A paper on the pragmatics of demonstratives], *Under Review*
