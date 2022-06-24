@@ -15,12 +15,18 @@ At the broadest level, my research addresses philosophical issues concerning joi
 
 You can e-mail me at [firstname][lastname]@gmail.com.
 
-# Papers
+# Research
+
+Here are my papers, in various stages of progress.
 
 * <a href="https://philpapers.org/rec/HARJAA-6">Joint Attention and Communication</a>, *Accepted at Inquiry: An Interdisciplinary Journal of Philosophy*
 * [A paper on the formal semantics of demonstratives and definite descriptions], *Revise and Resubmit*
 * [A paper on demonstratives and joint attention], *Under Review*
 * [A paper on the pragmatics of demonstratives], *Under Review*
+* The Simple Theory of Joint Activity, *Manuscript in Progress*
+* A Tale of Two Theories of Mind, *Manuscript in Progress*
+
+<a href="Harder_Rory_202206_PhD_thesis.pdf">Here</a> is my dissertation.
 
 # Teaching
 
