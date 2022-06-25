@@ -9,7 +9,7 @@ layout: home
 
 My name is <b>Rory Harder</b>. I completed my PhD in philosophy earlier this year at the University of Toronto. My research is in the philosophy of language and mind.
 
-At the broadest level, my research addresses philosophical issues concerning joint action: What does it mean to act together, such as in walking or talking with one another, or simply sharing experiences? What role does such engagement play in our lives as rational agents? I am especially concerned with linguistic communication---as one form of our joint action, but one with a distinctive character---and in particular the meaning and use of demonstratives: words such as <q>this</q> and <q>that.</q>
+At the broadest level, my research addresses philosophical issues concerning joint action: What does it mean to act together, such as in walking or talking with one another, or simply sharing experiences? What role does such engagement play in our lives as rational agents? I am especially concerned with linguistic communication---as one form of our joint action, but with a distinctive character---and in particular the meaning and use of demonstratives: words such as <q>this</q> and <q>that.</q>
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
