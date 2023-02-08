@@ -23,7 +23,7 @@ Here are my papers, in various stages of progress.
 * [A paper on the formal semantics of demonstratives and definite descriptions], *Revise and Resubmit*
 * [A paper on the pragmatics of demonstratives], *Revise and Resubmit*
 * [A paper on demonstratives and joint attention], *Under Review*
-* The Simple Theory of Joint Activity, *Manuscript in Progress*
+* Updates Beyond Semantics and Pragmatics, *Manuscript in Progress*
 * A Tale of Two Theories of Mind, *Manuscript in Progress*
 
 <a href="Harder_Rory_202206_PhD_thesis.pdf">Here</a> is my dissertation.
