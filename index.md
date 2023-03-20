@@ -22,7 +22,6 @@ Here are my papers, in various stages of progress.
 * Joint Attention and Communication, *Inquiry: An Interdisciplinary Journal of Philosophy* (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 * [A paper on the formal semantics of demonstratives and definite descriptions], *Revise and Resubmit*
 * [A paper on the pragmatics of demonstratives], *Revise and Resubmit*
-* [A paper on demonstratives and joint attention], *Under Review*
 * Updates Beyond Semantics and Pragmatics, *Manuscript in Progress*
 * A Tale of Two Theories of Mind, *Manuscript in Progress*
 
