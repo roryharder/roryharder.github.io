@@ -14,7 +14,7 @@ layout: home
 
 &nbsp;
 
-![picture 4](./picture35)
+![picture 4](./picture35.jpg)
 
 &nbsp;
 
