@@ -58,6 +58,6 @@ layout: home
 
 &nbsp;
 
-<div style="text-align: center;">
+<center>
   Go <a href="/index">back</a>.
-</div>
+</center>
