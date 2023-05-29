@@ -58,4 +58,4 @@ layout: home
 
 &nbsp;
 
-<p align= "center">Go [home](index.md).</p>
+<p align= "center">Go [home](index).</p>
