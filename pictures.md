@@ -1,4 +1,6 @@
-# Gallery
+---
+layout: home
+---
 
 ![Picture 1](./picture1.jpg)
 ![Picture 2](path/to/picture2.jpg)
