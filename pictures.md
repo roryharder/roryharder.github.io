@@ -58,4 +58,4 @@ layout: home
 
 &nbsp;
 
-<center>Go [home](index.md)</center>
+<centre>Go [home](index.md)</centre>
