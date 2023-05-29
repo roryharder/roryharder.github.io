@@ -12,3 +12,6 @@ layout: home
 
 ![Picture 3](./picture3.jpg)
 
+&nbsp;
+
+Go [home](index.md).
