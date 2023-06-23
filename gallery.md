@@ -1,13 +1,14 @@
 ---
 layout: home
-title: Gallery
 ---
 
-<div id="slideshow">
-  <img id="slide" src="picture1.jpg" alt="Picture 1">
-  <button id="prevBtn" onclick="prevImage()">Previous</button>
-  <button id="nextBtn" onclick="nextImage()">Next</button>
+<div class="slideshow">
+  {% for image in site.static_files %}
+    {% if image.path contains 'images' %}
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+    {% endif %}
+  {% endfor %}
 </div>
 
 <script
-  src="galleryscript.js"></script>
+src="{{ site.baseurl }}galleryscript.js"></script>
