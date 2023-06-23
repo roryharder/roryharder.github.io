@@ -9,4 +9,5 @@ title: Gallery
   <button id="nextBtn" onclick="nextImage()">Next</button>
 </div>
 
-<script src="galleryscript.js"></script>
+<script
+src="galleryscript.js"></script>
