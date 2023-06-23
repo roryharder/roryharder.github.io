@@ -1,32 +1,19 @@
-// Get references to the HTML elements
-const slideElement = document.getElementById("slide");
+$ ->
+  currentIndex = 0
 
-// Array of image file paths
-const imagePaths = [
-  "picture1.jpg",
-  "picture2.jpg",
-  "picture3.jpg"
-  // Add more image paths as needed
-];
+  showImage = ->
+    images = $(".slideshow img")
+    images.hide().eq(currentIndex).show()
 
-let currentIndex = 0;
+  prevImage = ->
+    currentIndex = if currentIndex is 0 then images.length - 1 else currentIndex - 1
+    showImage()
 
-// Function to display the current image
-function showImage() {
-  slideElement.src = imagePaths[currentIndex];
-}
+  nextImage = ->
+    currentIndex = if currentIndex is images.length - 1 then 0 else currentIndex + 1
+    showImage()
 
-// Function to navigate to the previous image
-function prevImage() {
-  currentIndex = (currentIndex === 0) ? (imagePaths.length - 1) : (currentIndex - 1);
-  showImage();
-}
+  $("#prevBtn").click(prevImage)
+  $("#nextBtn").click(nextImage)
 
-// Function to navigate to the next image
-function nextImage() {
-  currentIndex = (currentIndex === imagePaths.length - 1) ? 0 : (currentIndex + 1);
-  showImage();
-}
-
-// Show the initial image
-showImage();
+  showImage()
