@@ -15,8 +15,6 @@ My research addresses issues in the philosophy of language and mind concerning j
 
 You can e-mail me at [firstname][lastname]@gmail.com.
 
-I enjoy taking pictures. Check some out [here](pictures)!
-
 # Research
 
 Here are my papers, in various stages of progress.
