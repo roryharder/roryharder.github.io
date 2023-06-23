@@ -10,4 +10,4 @@ title: Gallery
 </div>
 
 <script
-src="galleryscript.js"></script>
+  src="galleryscript.js"></script>
