@@ -19,10 +19,9 @@ You can e-mail me at [firstname][lastname]@gmail.com.
 
 Here are my papers, in various stages of progress.
 
+* Clearing up Clouds: Underspecification in Demonstrative Communication, Accepted at the *Canadian Journal of Philosophy*.  (<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
 * Joint Attention and Communication, *Inquiry: An Interdisciplinary Journal of Philosophy* (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 * [A paper on the formal semantics of demonstratives and definite descriptions], *Revise and Resubmit*
-* [A paper on the pragmatics of demonstratives], *Revise and Resubmit*
-* Updates Beyond Semantics and Pragmatics, *Manuscript in Progress*
 * A Tale of Two Theories of Mind, *Manuscript in Progress*
 
 <a href="Harder_Rory_202206_PhD_thesis.pdf">Here</a> is my dissertation.
