@@ -5,6 +5,8 @@
 layout: home
 ---
 
+# About Me
+
 My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the University of Toronto in early 2022, and since the fall of 2022 I have been teaching at the University of Toronto Scarborough.
 
 <center><img src="mountpicture.png" style="max-width:50%;" vspace="50" onclick="this.src='IMG_3309.jpeg'"></center>
