@@ -20,9 +20,9 @@ You can e-mail me at [firstname][lastname]@gmail.com.
 Here are my papers, in various stages of progress.
 
 * "Clearing up Clouds: Underspecification in Demonstrative Communication." In press at the *Canadian Journal of Philosophy*.  (<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
-* ``Joint Attention and Communication.'' In press at *Inquiry: An Interdisciplinary Journal of Philosophy*. (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
+* "Joint Attention and Communication." In press at *Inquiry: An Interdisciplinary Journal of Philosophy*. (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
-* ``Mindreading De Facto and De Re.'' Manuscript in preparation.
+* "Mindreading De Facto and De Re." Manuscript in preparation.
 
 <a href="Harder_Rory_202206_PhD_thesis.pdf">Here</a> is my dissertation.
 
