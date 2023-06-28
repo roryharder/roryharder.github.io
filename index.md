@@ -7,9 +7,9 @@ layout: home
 
 <center><img src="mountpicture.png" style="max-width:50%;" vspace="50" onclick="this.src='IMG_3309.jpeg'"></center>
 
-My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the University of Toronto in early 2022, and for the 2022-2023 academic year I am teaching at the University of Toronto Scarborough campus.
+My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the University of Toronto in early 2022, and since the fall of 2022 I have been teaching at the University of Toronto Scarborough.
 
-My research addresses issues in the philosophy of language and mind concerning joint activity: when we act *together*, such as in walking or talking with one another, or in simply sharing experiences. What role does such engagement play in our lives as rational agents? What individual mental capacities does such engagement draw upon, and perhaps even help develop? I am especially concerned with linguistic communication as one form of our joint action---yet with a distinctive character---and in particular the meaning and use of demonstratives: words such as <q>this</q> and <q>that.</q>
+My research addresses issues in the philosophy of language and mind concerning joint activity: when we act *together*, for instance in walking or talking with another, or in the simple sharing of experiences. What role does such engagement play in our lives as rational agents? What individual mental capacities does such engagement draw upon, and perhaps even help develop? I am especially concerned with linguistic communication as one form of our joint action---yet with a distinctive character---and in particular the meaning and use of demonstratives: words such as <q>this</q> and <q>that.</q>
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
