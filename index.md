@@ -5,9 +5,9 @@
 layout: home
 ---
 
-<center><img src="mountpicture.png" style="max-width:50%;" vspace="50" onclick="this.src='IMG_3309.jpeg'"></center>
-
 My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the University of Toronto in early 2022, and since the fall of 2022 I have been teaching at the University of Toronto Scarborough.
+
+<center><img src="mountpicture.png" style="max-width:50%;" vspace="50" onclick="this.src='IMG_3309.jpeg'"></center>
 
 My research addresses issues in the philosophy of language and mind concerning joint activity: when we act *together*, for instance in walking or talking with another, or in the simple sharing of experiences. What role does such engagement play in our lives as rational agents? What individual mental capacities does such engagement draw upon, and perhaps even help develop? I am especially concerned with linguistic communication as one form of our joint action---yet with a distinctive character---and in particular the meaning and use of demonstratives: words such as <q>this</q> and <q>that.</q>
 
@@ -19,10 +19,10 @@ You can e-mail me at [firstname][lastname]@gmail.com.
 
 Here are my papers, in various stages of progress.
 
-* Clearing up Clouds: Underspecification in Demonstrative Communication. In press at the *Canadian Journal of Philosophy*.  (<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
-* Joint Attention and Communication. In press at *Inquiry: An Interdisciplinary Journal of Philosophy*. (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
+* "Clearing up Clouds: Underspecification in Demonstrative Communication." In press at the *Canadian Journal of Philosophy*.  (<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
+* "Joint Attention and Communication." In press at *Inquiry: An Interdisciplinary Journal of Philosophy*. (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
-* Mindreading De Facto and De Re. Manuscript in preparation.
+* "Mindreading De Facto and De Re." Manuscript in preparation.
 
 <a href="Harder_Rory_202206_PhD_thesis.pdf">Here</a> is my dissertation.
 
