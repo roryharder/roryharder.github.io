@@ -13,7 +13,7 @@ My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the Universit
 
 Here is a picture of me atop a mountain in Poland!
 
-<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" vspace="40"></center>
+<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" vspace="30"></center>
 
 My research addresses issues in the philosophy of language and mind concerning joint action, that which occurs for instance with two people walking or talking together, or simply sharing an experience. What role does such engagement play in our lives as rational agents? What individual mental capacities does such engagement draw upon, and perhaps even help develop? I am especially concerned with linguistic communication as one form of our joint action---yet with a distinctive character---and in particular the meaning and use of demonstratives: words such as <q>this</q> and <q>that.</q>
 
