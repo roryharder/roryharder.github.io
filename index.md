@@ -27,7 +27,7 @@ Here are my papers, in various stages of progress.
 * <q>Joint Attention and Communication.</q> In press at *Inquiry: An Interdisciplinary Journal of Philosophy*. (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
 * Mindreading De Facto and De Re. Manuscript in preparation.
-* Bishops and Uniqueness (with Lukas Lewerentz). Manuscript in Preparation.
+* Bishops and Uniqueness (with Lukas Lewerentz). Manuscript in preparation.
 
 <a href="Harder_Rory_202206_PhD_thesis.pdf">Here</a> is my dissertation.
 
