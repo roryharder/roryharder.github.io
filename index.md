@@ -11,7 +11,7 @@ layout: home
 
 My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the University of Toronto in early 2022, and since the fall of that year I have been teaching at the University of Toronto Scarborough.
 
-Here is a picture of me atop a mountain in Poland!
+To the right is a picture of me atop a mountain in Poland!
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
