@@ -7,11 +7,11 @@ layout: home
 
 # About Me
 
+<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" style="float:right"></center>
+
 My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the University of Toronto in early 2022, and since the fall of that year I have been teaching at the University of Toronto Scarborough.
 
 Here is a picture of me atop a mountain in Poland!
-
-<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" style="float:right"></center>
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
@@ -26,8 +26,8 @@ Here are my papers, in various stages of progress.
 * <q>Clearing up Clouds: Underspecification in Demonstrative Communication.</q> In press at the *Canadian Journal of Philosophy*.  (<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
 * <q>Joint Attention and Communication.</q> In press at *Inquiry: An Interdisciplinary Journal of Philosophy*. (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
-* Mindreading De Facto and De Re. Manuscript in preparation.
-* Bishops and Uniqueness (with Lukas Lewerentz). Manuscript in preparation.
+* <q>Mindreading De Facto and De Re.</q> Manuscript in preparation.
+* <q>Bishops and Uniqueness</q> (with Lukas Lewerentz). Manuscript in preparation.
 
 <a href="Harder_Rory_202206_PhD_thesis.pdf">Here</a> is my dissertation.
 
