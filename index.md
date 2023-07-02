@@ -5,9 +5,9 @@
 layout: home
 ---
 
-# About Me
-
 <center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" style="float:right"></center>
+
+# About Me
 
 My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the University of Toronto in early 2022, and since the fall of that year I have been teaching at the University of Toronto Scarborough.
 
