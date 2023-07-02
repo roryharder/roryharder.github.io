@@ -11,7 +11,7 @@ My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the Universit
 
 Here is a picture of me atop a mountain in Poland!
 
-<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" vspace="30" style="float:right"></center>
+<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" style="float:right"></center>
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
