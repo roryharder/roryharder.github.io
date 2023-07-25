@@ -23,7 +23,7 @@ My research addresses issues in the philosophy of language and mind concerning j
 
 Here are my papers, in various stages of progress.
 
-* <q>Clearing up Clouds: Underspecification in Demonstrative Communication.</q> In press at the *Canadian Journal of Philosophy*.  (<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
+* <q>Clearing up Clouds: Underspecification in Demonstrative Communication.</q> In press at *Canadian Journal of Philosophy*.  (<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
 * <q>Joint Attention and Communication.</q> In press at *Inquiry: An Interdisciplinary Journal of Philosophy*. (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
 * <q>Mindreading De Facto and De Re.</q> Manuscript in preparation.
@@ -33,7 +33,7 @@ Here are my papers, in various stages of progress.
 
 # Teaching
 
-I have taught first-year introductions to philosophy as well as upper-year seminars on topics in the philosophy of mind and language, at the University of Toronto. I have also taught first-year introductions to formal reasoning and decision-making, at Rutgers University.
+I have taught first-year introductions to philosophy and upper-year seminars on the philosophy of mind and language at the University of Toronto. I have taught first-year introductions to formal reasoning and decision-making at Rutgers University.
 
 <!-- I have taught third-year seminars on <a href="rh-mind-syllabus.pdf">perception</a> and <a href="fpsyll.pdf">Frege's puzzle</a> at the University of Toronto and a first-year <a href="syllabus.pdf">introduction to formal reasoning and decision making</a> at Rutgers University. -->
 
