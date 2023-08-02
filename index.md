@@ -9,7 +9,7 @@ layout: home
 
 # About Me
 
-My name is <b>Rory Harder</b>. I completed my PhD in philosophy at the University of Toronto in early 2022, and since the fall of that year I have been teaching at the University of Toronto Scarborough.
+My name is <b>Rory Harder</b>. In September 2023, I begin a two year IRC-funded postdoctoral fellowship at University College Dublin. I completed my PhD in philosophy at the University of Toronto in 2022.
 
 To the right is a picture of me atop a mountain in Poland!
 
