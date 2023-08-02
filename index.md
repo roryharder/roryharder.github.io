@@ -11,7 +11,7 @@ layout: home
 
 My name is <b>Rory Harder</b>.
 
-This fall I begin a two year IRC-funded postdoctoral fellowship at University College Dublin. I completed my PhD in philosophy at the University of Toronto last year.
+This fall I begin an IRC-funded postdoctoral fellowship at University College Dublin. I completed my PhD in philosophy at the University of Toronto last year.
 
 To the right is a picture of me atop a mountain in Poland!
 
