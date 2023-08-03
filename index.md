@@ -11,7 +11,7 @@ layout: home
 
 My name is <b>Rory Harder</b>.
 
-I completed my PhD last year at the University of Toronto. This fall I begin an IRC-funded postdoctoral fellowship at University College Dublin. 
+I completed my PhD last year at the University of Toronto. This fall I begin a postdoctoral fellowship at University College Dublin. 
 
 To the right is a picture of me atop a mountain in Poland!
 
