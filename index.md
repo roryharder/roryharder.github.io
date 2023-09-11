@@ -31,8 +31,6 @@ Here are my papers, in various stages of progress.
 * <q>Mindreading De Dicto and De Re.</q> Manuscript in preparation.
 * <q>Bishops and Uniqueness</q> (with Lukas Lewerentz). Manuscript in preparation.
 
-<a href="Harder_Rory_202206_PhD_thesis.pdf">Here</a> is my dissertation.
-
 # Teaching
 
 I have taught first-year introductions to philosophy and upper-year seminars on the philosophy of mind and language at the University of Toronto. I have taught first-year introductions to formal reasoning and decision-making at Rutgers University.
