@@ -11,7 +11,7 @@ layout: home
 
 My name is <b>Rory Harder</b>.
 
-I completed my PhD last year at the University of Toronto. This fall I am beginning a postdoctoral fellowship at University College Dublin. 
+I completed my PhD last year at the University of Toronto. This fall I am beginning a postdoctoral fellowship at University College Dublin (look <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshipprojects/">here</a> for some information on my postdoc project). 
 
 To the right is a picture of me atop a mountain in Poland!
 
@@ -30,6 +30,7 @@ Here are my papers, in various stages of progress.
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
 * <q>Mindreading De Dicto and De Re.</q> Manuscript in preparation.
 * <q>Bishops and Uniqueness</q> (with Lukas Lewerentz). Manuscript in preparation.
+* <q>Inisinuation, Common Ground, and the Institution of Conversation.</q> Manuscript in Preparation.
 
 # Teaching
 
