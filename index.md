@@ -30,7 +30,7 @@ Here are my papers, in various stages of progress.
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
 * <q>Mindreading De Dicto and De Re.</q> Manuscript in preparation.
 * <q>Bishops and Uniqueness</q> (with Lukas Lewerentz). Manuscript in preparation.
-* <q>Inisinuation, Common Ground, and the Institution of Conversation.</q> Manuscript in Preparation.
+* <q>Insinuation, Common Ground, and the Institution of Conversation.</q> Manuscript in Preparation.
 
 # Teaching
 
