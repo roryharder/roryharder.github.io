@@ -28,9 +28,9 @@ Here are my papers, in various stages of progress.
 * <q>Clearing up Clouds: Underspecification in Demonstrative Communication.</q> In press at *Canadian Journal of Philosophy*. (<a href="https://doi.org/10.1017/can.2023.26">Journal</a>/<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
 * <q>Joint Attention and Communication.</q> In press at *Inquiry: An Interdisciplinary Journal of Philosophy*. (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
-* <q>Mindreading De Dicto and De Re.</q> Manuscript in preparation.
+* [A paper on theory of mind and knowledge-first epistemology]. Under review.
 * <q>Bishops and Uniqueness</q> (with Lukas Lewerentz). Manuscript in preparation.
-* <q>Insinuation, Common Ground, and the Institution of Conversation.</q> Manuscript in Preparation.
+* <q>Insinuation and Common Ground.</q> Manuscript in Preparation.
 
 # Teaching
 
