@@ -11,7 +11,7 @@ layout: home
 
 My name is <b>Rory Harder</b>.
 
-I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshipprojects/">postdoctoral fellow</a> at University College Dublin. I completed my PhD in 2022 at the University of Toronto.
+As of fall 2023, I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshipprojects/">postdoctoral fellow</a> at the University College Dublin School of Philosophy. In 2022, I completed my PhD in philosophy at the University of Toronto.
 
 Right there is a picture of me atop a mountain in Poland!
 
