@@ -11,13 +11,13 @@ layout: home
 
 My name is <b>Rory Harder</b>.
 
-I completed my PhD last year at the University of Toronto. This fall I am beginning a postdoctoral fellowship at University College Dublin (look <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshipprojects/">here</a> for some information on my postdoc project). 
+I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshipprojects/">postdoctoral fellow</a> at University College Dublin. I completed my PhD in 2022 at the University of Toronto.
 
-To the right is a picture of me atop a mountain in Poland!
+Right there is a picture of me atop a mountain in Poland!
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
-You can e-mail me at [firstname][lastname]@gmail.com.
+You can e-mail me at [myfirstname][mylastname]@gmail.com.
 
 # Research
 
