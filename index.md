@@ -15,7 +15,7 @@ I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshippro
 
 Right there is a picture of me atop a mountain in Poland!
 
-<a href="rh-cv.pdf">Here</a> is my CV. <a href="www.linkedin.com/in/roryharder">Here</a> is my LinkedIn.
+<a href="rh-cv.pdf">Here</a> is my CV. <a href="https://www.linkedin.com/in/roryharder">Here</a> is my LinkedIn.
 
 You can e-mail me at [myfirstname][mylastname]@gmail.com.
 
