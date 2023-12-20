@@ -30,7 +30,8 @@ Here are my papers, in various stages of progress.
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
 * [A paper on theory of mind and knowledge-first epistemology]. Under review.
 * <q>Bishops and Uniqueness</q> (with Lukas Lewerentz). Manuscript in preparation.
-* <q>Insinuation and Common Ground.</q> Manuscript in Preparation.
+* <q>Speech Acts, Common Ground, and Non-Ideal Philosophy of Language.</q> Manuscript in Preparation.
+* <q>On why it Matters that Certain Words have Certain Meanings.</q> Manuscript in Preparation.
 
 # Teaching
 
