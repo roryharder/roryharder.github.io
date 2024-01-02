@@ -25,7 +25,7 @@ My areas of specialization are the philosophy of language and mind.
 
 I am interested in human nature. I explore each of the traditional answers as to what is distinctive about our nature---our use of language and our sociality---constructively engaging with cutting edge work in linguistics and psychology.
 
-My dissertation work focused on the meaning and use of demonstratives---words such as <q>this</q> and <q>that</q>---and joint attention---individuals attending together to some or other object. Those phenomena are related to each other, as well as our distinctive language use and collaborative action, since demonstratives are often used to direct each other's attention, to this or that object, sharing our thoughts or feelings about it.
+My dissertation work focused on the meaning and use of demonstratives---words such as <q>this</q> and <q>that</q>---and joint attention---individuals attending together to some or other object. These phenomena are related to each other, as well as to our distinctive language use and collaborative action, since demonstratives are often used to direct each other's attention, to this or that object, sharing our thoughts or feelings about it.
 
 In my current postdoc project I am considering modern social institutions and technology in order to shed further light on our social nature.
 
