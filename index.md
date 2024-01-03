@@ -23,11 +23,11 @@ You can e-mail me at [myfirstname][mylastname]@gmail.com.
 
 My areas of specialization are the philosophy of language and mind.
 
-I am interested in human nature. I explore each of the traditional answers as to what is distinctive about our nature---our use of language and our sociality---constructively engaging with cutting edge work in linguistics and psychology.
+I am interested in human nature. I explore each of the traditional answers as to what is distinctive about our nature---our use of language and our sociality---constructively engaging with cutting-edge work in linguistics and psychology.
 
-My dissertation work focused on the meaning and use of demonstratives---words such as <q>this</q> and <q>that</q>---and joint attention---individuals attending together to some or other object. These phenomena are related to each other, as well as to our distinctive language use and social behaviour, since demonstratives are often used to direct each other's attention, to this or that object, sharing our thoughts or feelings about it.
+My dissertation focused on the meaning and use of demonstratives---words such as <q>this</q> and <q>that</q>---and joint attention---individuals attending together. These phenomena are related to each other, as well as to our distinctive linguistic and social behaviour, since demonstratives are often used to direct each other's attention, to this or that object, sharing our thoughts or feelings about the object.
 
-In my current postdoc project I am considering modern institutions and technology in order to shed further light on our social nature.
+In my current postdoc project I consider modern institutions and technology in order to shed further light on our social nature.
 
 Here are my papers accepted for publication.
 
