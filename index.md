@@ -44,7 +44,9 @@ Here are my papers in various stages of progress.
 
 # Teaching
 
-I have taught first-year introductions to philosophy and upper-year seminars on the philosophy of mind and language at the University of Toronto. I have taught first-year introductions to formal reasoning and decision-making at Rutgers University. <a href="rh-teachingstatement.pdf">Here</a> is a statement of my teaching philosophy, with some more details regarding my teaching experience.
+I have taught first-year introductions to philosophy and upper-year seminars on the philosophy of mind and language at the University of Toronto. I have taught first-year introductions to formal reasoning and decision-making at Rutgers University.
+
+<a href="rh-teachingstatement.pdf">Here</a> is a statement of my teaching philosophy, which includes details of my teaching experience.
 
 <!-- I have taught third-year seminars on <a href="rh-mind-syllabus.pdf">perception</a> and <a href="fpsyll.pdf">Frege's puzzle</a> at the University of Toronto and a first-year <a href="syllabus.pdf">introduction to formal reasoning and decision making</a> at Rutgers University. -->
 
