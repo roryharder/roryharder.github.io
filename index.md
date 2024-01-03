@@ -29,8 +29,6 @@ My dissertation focused on the meaning and use of demonstratives---words such as
 
 In my current postdoc project I consider modern institutions and technology in order to shed further light on our social nature.
 
-<hr width="50%" size="8">
-
 Here are my papers accepted for publication.
 
 * <q>Clearing up Clouds: Underspecification in Demonstrative Communication.</q> In press at *Canadian Journal of Philosophy*. (<a href="https://doi.org/10.1017/can.2023.26">Journal</a>/<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
