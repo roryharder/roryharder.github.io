@@ -42,7 +42,6 @@ Here are my papers in various stages of progress.
 * [A paper on theory of mind and knowledge-first epistemology]. Under review.
 * <q>Bishops and Uniqueness</q> (with Lukas Lewerentz). Manuscript in preparation.
 * <q>Speech Acts, Common Ground, and Non-Ideal Philosophy of Language.</q> Manuscript in Preparation.
-* <q>On why it Matters that Certain Words have Certain Meanings.</q> Manuscript in Preparation.
 
 # Teaching
 
