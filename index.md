@@ -40,8 +40,8 @@ Here are my papers in various stages of progress.
 
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
 * [A paper on theory of mind and knowledge-first epistemology]. Under review.
-* <q>Bishops and Uniqueness</q> (with Lukas Lewerentz). Manuscript in preparation.
-* <q>Speech Acts, Common Ground, and Non-Ideal Philosophy of Language.</q> Manuscript in Preparation.
+* [A paper on Nietzsche on Justice]. Under review.
+* <q>Speech Acts and Non-Ideal Philosophy of Language.</q> Manuscript in Preparation.
 
 # Teaching
 
