@@ -40,7 +40,7 @@ Here are my papers in various stages of progress.
 
 * [A paper on the formal semantics of demonstratives and definite descriptions]. Revised and resubmitted.
 * [A paper on theory of mind and knowledge-first epistemology]. Under review.
-* [A paper on Nietzsche on Justice]. Under review.
+* [A paper on Nietzsche on justice]. Under review.
 * <q>Speech Acts and Non-Ideal Philosophy of Language.</q> Manuscript in Preparation.
 
 # Teaching
