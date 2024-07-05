@@ -19,6 +19,8 @@ Right there is a picture of me atop a mountain in Poland!
 
 You can e-mail me at [myfirstname][mylastname]@gmail.com.
 
+<a href="research.md">research</a>
+
 # Research
 
 My areas of specialization are the philosophy of language and mind.
