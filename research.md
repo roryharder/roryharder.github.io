@@ -5,6 +5,8 @@
 layout: default
 ---
 
+<center><a href="index.md">Home</a></center>
+
 # Research
 
 My areas of specialization are the philosophy of language and mind.
