@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" hspace="3" style="float:right"></center>
+<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" hspace="3"></center>
 
 # About Me
 
