@@ -7,7 +7,7 @@ layout: home
 
 <center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" hspace="3"></center>
 
-<br>
+\
 
 My name is <b>Rory Harder</b>. Above is a picture of me atop a mountain in Poland!
 
