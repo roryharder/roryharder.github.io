@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<center><a href="./">Home</a></center>
+<center><a href="www.roryharder.com">Home</a></center>
 
 # Research
 
