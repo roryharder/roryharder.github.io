@@ -5,7 +5,8 @@
 layout: home
 ---
 
-<center><img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" hspace="3"></center>
+<center>
+<img src="mountpicture3.png" alt="me on a mountain" width="225" height="auto" hspace="3">
 
 &nbsp;
 &nbsp;
@@ -19,5 +20,4 @@ I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshippro
 You can e-mail me at [myfirstname][mylastname]@gmail.com.
 
 See more about my <a href="research.md">research</a> or <a href="teaching.md">teaching</a>.
-
-
+</center>
