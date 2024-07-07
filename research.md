@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<center><a href="../index.md">Home</a></center>
+<center><a href="/">Home</a></center>
 
 # Research
 
