@@ -17,5 +17,5 @@ Right there is a picture of me atop a mountain in Poland!
 
 You can e-mail me at [myfirstname][mylastname]@gmail.com.
 
-<center> <a href="research.md">Research</a> | <a href="teaching.md">Teaching</a> </center>
+<center> <a href="research">Research</a> | <a href="teaching">Teaching</a> </center>
 
