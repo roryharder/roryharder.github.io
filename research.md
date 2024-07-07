@@ -7,8 +7,6 @@ layout: page
 
 <center><a href="index.md">Home</a></center>
 
-# Research
-
 My areas of specialization are the philosophy of language and mind.
 
 I am interested in human nature. I explore each of the traditional answers as to what is distinctive about our nature---our use of language and our sociality---constructively engaging with cutting-edge work in linguistics and psychology.
