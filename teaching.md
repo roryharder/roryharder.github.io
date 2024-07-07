@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Teaching
 ---
-
-## Teaching
 
 I have taught first-year introductions to philosophy and upper-year seminars on the philosophy of mind and language at the University of Toronto. I have taught first-year introductions to formal reasoning and decision-making at Rutgers University.
 
