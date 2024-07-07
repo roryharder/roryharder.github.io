@@ -19,5 +19,5 @@ I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshippro
 
 You can e-mail me at [myfirstname][mylastname]@gmail.com.
 
-See more about my [research](research.md) or [teaching](teaching.md).
+See more about my <a href="research.md">research</a> and <a href="teaching.md">teaching</a>.
 </center>
