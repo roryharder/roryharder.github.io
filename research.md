@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<center><a href="/">Home</a></center>
+# Research
 
 My areas of specialization are the philosophy of language and mind.
 
@@ -30,4 +30,6 @@ Here are my papers in various stages of progress.
 * <q>Speech Acts and Non-Ideal Philosophy of Language.</q> Manuscript in Preparation.
 * <q>Dynamic Semantics as Constraint Semantics.</q> Manuscript in Preparation.
 
+<br>
 
+<center><a href="/">Home</a></center>
