@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<center><a href="https://www.roryharder.com">Home</a></center>
+<center><a href="index.md">Home</a></center>
 
 # Research
 
