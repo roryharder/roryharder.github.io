@@ -5,6 +5,8 @@
 layout: default
 ---
 
+<center><a href="https:\\www.roryharder.com">Home</a></center>
+
 # Teaching
 
 I have taught first-year introductions to philosophy and upper-year seminars on the philosophy of mind and language at the University of Toronto. I have taught first-year introductions to formal reasoning and decision-making at Rutgers University.
