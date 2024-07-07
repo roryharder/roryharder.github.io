@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<center><a href="index.md">Home</a></center>
+<center><a href="index">Home</a></center>
 
 My areas of specialization are the philosophy of language and mind.
 
