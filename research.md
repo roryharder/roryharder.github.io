@@ -19,7 +19,7 @@ In my current postdoc project I consider modern institutions and technology in o
 Here are my papers accepted for publication.
 
 * <q>Clearing up Clouds: Underspecification in Demonstrative Communication.</q> *Canadian Journal of Philosophy* 53, No. 1 (2023). (<a href="https://doi.org/10.1017/can.2023.26">Journal</a>/<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
-* <q>Joint Attention and Communication.</q> *Inquiry: An Interdisciplinary Journal of Philosophy* (2022). (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
+* <q>Joint Attention and Communication.</q> *Inquiry: An Interdisciplinary Journal of Philosophy* 67, No. 10 (2022). (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 
 Here are my papers in various stages of progress.
 
