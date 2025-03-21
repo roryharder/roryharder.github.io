@@ -11,7 +11,9 @@ layout: home
 
 My name is <b>Rory Harder</b>. Above is a picture of me atop a mountain in Poland!
 
-I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshipprojects/">postdoctoral fellow</a> at the University College Dublin School of Philosophy. I completed my PhD in philosophy at the University of Toronto in 2022. I like <a href="https://500px.com/p/roryharder?view=photos">film photography</a>.
+I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshipprojects/">postdoctoral fellow</a> at the University College Dublin School of Philosophy. I completed my PhD in philosophy at the University of Toronto in 2022.
+
+I like taking film <a href="https://500px.com/p/roryharder?view=photos">photographs</a>.
 
 <a href="rh-cv.pdf">Here</a> is my CV.
 
