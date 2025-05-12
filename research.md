@@ -25,7 +25,7 @@ Here are my papers in various stages of progress.
 
 * [A paper on theory of mind and knowledge-first epistemology]. Under review.
 * [A paper on Nietzsche on justice]. Under review.
-* <q>Speech Acts and Non-Ideal Philosophy of Language.</q> Manuscript in Preparation.
+* [A paper on speech acts]. Under Review.
 * <q>Dynamic Semantics as Constraint Semantics.</q> Manuscript in Preparation.
 
 <br>
