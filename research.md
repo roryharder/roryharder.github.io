@@ -8,7 +8,7 @@ title: Research
 
 My areas of specialization are the philosophy of language and mind.
 
-I am interested in human nature. I explore each of the traditional answers as to what is distinctive about our nature---our use of language and our sociality---constructively engaging with cutting-edge work in linguistics and psychology.
+I am interested in human nature. I explore two of the traditional answers as to what is distinctive about our nature---our use of language and our sociality---by constructively engaging with cutting-edge work in linguistics and psychology.
 
 My dissertation focused on the meaning and use of demonstratives---words such as <q>this</q> and <q>that</q>---and joint attention---individuals attending together. These phenomena are related to each other, as well as to our distinctive linguistic and social behaviour, since demonstratives are often used to direct another's attention to this or that object, sharing one's thoughts or feelings about it.
 
@@ -26,6 +26,7 @@ Here are my papers in various stages of progress.
 * [A paper on theory of mind and knowledge-first epistemology]. Under review.
 * [A paper on Nietzsche on justice]. Under review.
 * [A paper on speech acts]. Under Review.
+* <q>Reference in a Language Game.<q> Manuscript in Preparation.
 * <q>Dynamic Semantics as Constraint Semantics.</q> Manuscript in Preparation.
 
 <br>
