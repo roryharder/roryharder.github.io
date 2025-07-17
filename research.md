@@ -27,6 +27,7 @@ Here are my papers in various stages of progress.
 * [A paper on Nietzsche on justice]. Under review.
 * [A paper on speech acts]. Under Review.
 * <q>Reference in a Language Game.</q> Manuscript in Preparation.
+* <q>Demonstratives Contribute Conventional Implicatures.</q> Manuscript in Preparation.
 * <q>Dynamic Semantics as Constraint Semantics.</q> Manuscript in Preparation.
 
 <br>
