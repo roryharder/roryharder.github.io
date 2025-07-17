@@ -9,9 +9,9 @@ layout: home
 
 <br>
 
-My name is <b>Rory Harder</b>. Above is a picture of me atop a mountain in Poland!
+My name is <b>Rory Harder</b>. That's a picture of me atop a mountain in Poland!
 
-I am a <a href="https://www.ucd.ie/philosophy/research/postdoctoralfellowshipprojects/">postdoctoral fellow</a> at the University College Dublin School of Philosophy. I completed my PhD in philosophy at the University of Toronto in 2022.
+As of September 2025, I am a postdoctoral fellow at the Collège de France as a part of François Recanati's <a href="https://sites.google.com/view/ercmentalfiles/home">project on mental files</a>. Before that I did a <a href="https://www.ucd.ie/philosophy/research/postdocs/">postdoctoral fellowship</a> at the University College Dublin School of Philosophy, and before that I completed my PhD in philosophy at the University of Toronto in 2022.
 
 I like taking film <a href="https://500px.com/p/roryharder?view=photos">photographs</a>.
 
