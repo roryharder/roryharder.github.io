@@ -21,7 +21,7 @@ Here are my papers accepted for publication.
 * Clearing up Clouds: Underspecification in Demonstrative Communication. *Canadian Journal of Philosophy* 53, No. 1 (2023). (<a href="https://doi.org/10.1017/can.2023.26">Journal</a>/<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
 * Joint Attention and Communication. *Inquiry: An Interdisciplinary Journal of Philosophy* 67, No. 10 (2022). (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 
-I have also written a public philosophy piece on Nietzche's views about how individuals relate to social reality.
+Here's a public philosophy piece on Nietzche's views about how individuals relate to social reality.
 
 * Nietzsche on Justice. *Forthcoming at the Washington University Review of Philosophy*. (<a href="https://philpapers.org/rec/HARNOJ-2">Philpapers</a>)
 
