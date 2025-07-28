@@ -25,7 +25,7 @@ Here's a public philosophy piece on Nietzche's views about how individuals relat
 
 * Nietzsche on Justice. *Forthcoming at the Washington University Review of Philosophy*. (<a href="https://philpapers.org/rec/HARNOJ-2">Philpapers</a>)
 
-Finally, here are my papers in various stages of progress.
+Finally, some papers in various stages of progress.
 
 * [A paper on theory of mind and knowledge-first epistemology]. *Under review.*
 * [A paper on speech acts]. *Under Review.*
