@@ -12,7 +12,7 @@ I am interested in human nature. I explore two of the traditional answers as to 
 
 My dissertation focused on the meaning and use of demonstratives---words such as <q>this</q> and <q>that</q>---and joint attention---individuals attending together. These phenomena are related to each other, as well as to our distinctive linguistic and social behaviour, since demonstratives are often used to direct another's attention to this or that object, sharing one's thoughts or feelings about it.
 
-In the first <a href="https://www.ucd.ie/philosophy/research/postdocs/">postdoc project</a> after my dissertation, I considered modern institutions in order to shed further light on our linguistic behaviour and social nature. And I continue to extend my research by shifting its focus from small-scale joint interactions such as joint attention to larger-scale social organization.
+In my first <a href="https://www.ucd.ie/philosophy/research/postdocs/">postdoc project</a> after dissertation, I considered modern institutions in order to shed further light on our linguistic behaviour and social nature. And I continue to extend my research by shifting its focus from small-scale joint interactions such as joint attention to larger-scale social organization.
 
 <center>***</center>
 
