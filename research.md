@@ -21,10 +21,13 @@ Here are my papers accepted for publication.
 * <q>Clearing up Clouds: Underspecification in Demonstrative Communication.</q> *Canadian Journal of Philosophy* 53, No. 1 (2023). (<a href="https://doi.org/10.1017/can.2023.26">Journal</a>/<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
 * <q>Joint Attention and Communication.</q> *Inquiry: An Interdisciplinary Journal of Philosophy* 67, No. 10 (2022). (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 
-Here are my papers in various stages of progress.
+I have also written a piece of public philosophy about Nietzche's existentialism and its relationship to his views about how individuals are related to their social reality.
+
+* <q>Nietzsche on Justice.</q> *Forthcoming at the Washington University Review of Philosophy*. (<a href="https://philpapers.org/rec/HARNOJ-2">Philpapers</a>)
+
+Finally, here are my papers in various stages of progress.
 
 * [A paper on theory of mind and knowledge-first epistemology]. Under review.
-* [A paper on Nietzsche on justice]. Under review.
 * [A paper on speech acts]. Under Review.
 * <q>Reference in a Language Game.</q> Manuscript in Preparation.
 * <q>Demonstratives Contribute Conventional Implicatures.</q> Manuscript in Preparation.
