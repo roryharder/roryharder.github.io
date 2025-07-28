@@ -27,11 +27,11 @@ I have also written a public philosophy piece about Nietzche's existentialism an
 
 Finally, here are my papers in various stages of progress.
 
-* [A paper on theory of mind and knowledge-first epistemology]. Under review.
-* [A paper on speech acts]. Under Review.
-* <q>Reference in a Language Game.</q> Manuscript in Preparation.
-* <q>Demonstratives Contribute Conventional Implicatures.</q> Manuscript in Preparation.
-* <q>Dynamic Semantics as Constraint Semantics.</q> Manuscript in Preparation.
+* [A paper on theory of mind and knowledge-first epistemology]. *Under review.*
+* [A paper on speech acts]. *Under Review.*
+* Reference in a Language Game. *Manuscript in Preparation.*
+* Demonstratives Contribute Conventional Implicatures. *Manuscript in Preparation.*
+* Dynamic Semantics as Constraint Semantics. *Manuscript in Preparation.*
 
 <br>
 
