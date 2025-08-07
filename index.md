@@ -11,7 +11,7 @@ layout: home
 
 My name is <b>Rory Harder</b>. That's a picture of me atop a mountain in Poland!
 
-As of September 2025, I am a postdoctoral fellow at the Collège de France as a part of François Recanati's <a href="https://sites.google.com/view/ercmentalfiles/home">project on mental files</a>. Before that I did a postdoctoral fellowship at University College Dublin, and before that I completed my PhD in philosophy at the University of Toronto.
+As of September 2025, I am a postdoctoral fellow at the Collège de France as a part of François Recanati's <a href="https://sites.google.com/view/ercmentalfiles/home">project on mental files</a>. Before that I did a postdoctoral fellowship at University College Dublin, and before that I did my PhD in philosophy at the University of Toronto.
 
 I like taking film <a href="https://500px.com/p/roryharder?view=photos">photographs</a>.
 
