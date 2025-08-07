@@ -18,6 +18,7 @@ In my first <a href="https://www.ucd.ie/philosophy/research/postdocs/">postdoc p
 
 Here are my papers accepted for publication.
 
+* Knowledge-First Mentalizing: Concept-Based or Merely State-Based? *Forthcoming at Synthese*. (<a href="https://philpapers.org/rec/HARKMC">Philpapers</a>)
 * Clearing up Clouds: Underspecification in Demonstrative Communication. *Canadian Journal of Philosophy* 53, No. 1 (2023). (<a href="https://doi.org/10.1017/can.2023.26">Journal</a>/<a href="https://philpapers.org/rec/HARCUC">PhilPapers</a>)
 * Joint Attention and Communication. *Inquiry: An Interdisciplinary Journal of Philosophy* 67, No. 10 (2022). (<a href="https://www.tandfonline.com/doi/abs/10.1080/0020174X.2022.2074101">Journal</a>/<a href="https://philpapers.org/rec/HARJAA-6">PhilPapers</a>)
 
@@ -27,7 +28,6 @@ Here's a public philosophy piece on Nietzche's views about how individuals relat
 
 Finally, some papers in various stages of progress.
 
-* [A paper on theory of mind and knowledge-first epistemology]. *Under review.*
 * [A paper on speech acts]. *Under Review.*
 * Reference in a Language Game. *Manuscript in Preparation.*
 * Demonstratives Contribute Conventional Implicatures. *Manuscript in Preparation.*
