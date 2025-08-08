@@ -31,7 +31,6 @@ Finally, some papers in various stages of progress.
 * [A paper on speech acts]. *Under Review.*
 * Reference in a Language Game. *Manuscript in Preparation.*
 * Demonstratives Contribute Conventional Implicatures. *Manuscript in Preparation.*
-* Dynamic Semantics as Constraint Semantics. *Manuscript in Preparation.*
 
 <br>
 
