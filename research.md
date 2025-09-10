@@ -8,7 +8,7 @@ title: Research
 
 My areas of specialization are the philosophy of mind and language.
 
-I explore two of the traditional answers as to what is distinctive about human nature---our use of language and our sociality---constructively engaging with cutting-edge work in psychology and linguistics.
+I explore two of the traditional answers as to what is distinctive about human nature---sociality and our use of language---constructively engaging with cutting-edge work in psychology and linguistics.
 
 My dissertation focused on the meaning and use of demonstratives---words such as <q>this</q> and <q>that</q>---and joint attention---individuals attending together. These phenomena are related to each other, as well as to our distinctive linguistic and social behaviour, since demonstratives are often used to direct another's attention to this or that object, sharing one's thoughts or feelings about it.
 
