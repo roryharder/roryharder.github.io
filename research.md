@@ -26,11 +26,7 @@ Here's a public philosophy piece on Nietzche's views about how individuals relat
 
 * Nietzsche on Justice. *Forthcoming at the Washington University Review of Philosophy*. (<a href="https://philpapers.org/rec/HARNOJ-2">Philpapers</a>)
 
-Finally, some papers in various stages of progress.
-
-* [A paper on speech acts]. *Under Review.*
-* Reference in a Language Game. *Manuscript in Preparation.*
-* Demonstratives Contribute Conventional Implicatures. *Manuscript in Preparation.*
+Finally, I have papers in various stages of completion or review on the topics of speech acts and demonstrative semantics and metasemantics.
 
 <br>
 
