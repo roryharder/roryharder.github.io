@@ -27,7 +27,7 @@ Here's a public philosophy piece on Nietzche's views about how individuals relat
 * Nietzsche on Justice. *Washington University Review of Philosophy 4*. 2025. (<a href="https://doi.org/10.5840/wurop2025410">Journal</a>/
 <a href="https://philpapers.org/rec/HARNOJ-2">Philpapers</a>)
 
-Finally, I have papers in various stages of completion or review on topics such as speech acts and demonstrative semantics and metasemantics.
+Finally, I have papers in various stages of completion or review on topics such as speech acts, demonstrative semantics and metasemantics, and copredication.
 
 <br>
 
