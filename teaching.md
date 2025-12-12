@@ -6,9 +6,9 @@ layout: page
 title: Teaching
 ---
 
-I have taught first-year introductions to philosophy and upper-year seminars on the philosophy of mind and language at the University of Toronto. I have taught first-year introductions to formal reasoning and decision-making at Rutgers University.
+I have taught first-year introductions to philosophy and upper-year seminars on the philosophy of mind and language at the University of Toronto, and first-year introductions to formal reasoning and decision-making at Rutgers University.
 
-<a href="rh-teachingstatement.pdf">Here</a> is a statement of my teaching philosophy, which includes details of my teaching experience.
+Please feel free to contact me if you would like to see my teaching dossier, which includes details of my teaching experience, sample syllabi, and student evaluations.
 
 <br>
 
