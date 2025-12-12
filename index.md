@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<center><img src="LES40003.jpg" alt="..." width="225" height="auto" hspace="3"></center>
+<center><img src="LES40003.jpg" alt="..." width="500" height="auto" hspace="3"></center>
 
 <br>
 
